@@ -1,0 +1,9 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #2C3A47;
+}
+
+.message {
+  color: #06D4B6;
+}
